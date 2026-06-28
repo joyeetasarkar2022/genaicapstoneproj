@@ -17,7 +17,7 @@ llama-index-vector-stores-chroma==0.4.1
 llama-index-embeddings-huggingface==0.4.0
 llama-index-llms-openai==0.3.12
 sentence-transformers==3.3.1
-numpy==1.22.2
+numpy==2.5
 httpx==0.28.1
 pytest==8.3.4
 xlrd==2.0.1
